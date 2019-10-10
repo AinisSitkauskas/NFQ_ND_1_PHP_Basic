@@ -3,7 +3,7 @@
 Aliko: Ainis Šitkauskas
 
 Leidžiant per konsolę gautas toks rezultatas: 
-
+![Image](https://github.com/AinisSitkauskas/NFQ_ND_1_PHP_Basic/blob/master/image/image.JPG)
 
 Pateikiami paaiškinimai kodėl gauname tokie rezultatai: 
 
