@@ -1,5 +1,13 @@
 {
     "require": {
         "wujunze/php-cli-color": "^2.4"
+    },
+    "autoload": {
+        "files": [
+            "functions/notTypedFunction.php",
+            "functions/rootFunction.php",
+            "functions/softFunction.php",
+            "functions/strictFunction.php"
+        ]
     }
 }
